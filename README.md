@@ -2,23 +2,20 @@
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
-Feel free to use it as-is or customize it as much as you want. I was motivated to create this project because I wanted to contribute on something useful for the dev community :)
-
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/cobidev/simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
 ## Features
-
-✔️ Modern UI Design + Reveal Animations\
-✔️ One Page Layout\
-✔️ Styled with Bootstrap v4.3 + Custom SCSS\
-✔️ Light Clean Codes\
-✔️ Fully Responsive\
-✔️ Valid HTML5 & CSS3\
-✔️ Optimized with Webpack\
-✔️ Well organized documentation
+⚡️ Modern UI Design + Reveal Animations\
+⚡️ One Page Layout\
+⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
+⚡️ Light Clean Codes\
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Optimized with Webpack\
+⚡️ Well organized documentation
 
 To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
 To view a live example, **[click here](https://cobidev.com/)**
@@ -76,7 +73,7 @@ $ npm start
 Once your server has started, go to this url `http://localhost:8080/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+  <img src="https://github.com/cobidev/simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
 </h2>
 
 ---
@@ -97,7 +94,7 @@ Go to `/src/template.html` and fill your information, they are 5 sections:
 <div id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title" class="load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">John Doe</span>
       <br />
       I'm the Unknow Developer.
     </h1>
@@ -129,7 +126,7 @@ Go to `/src/template.html` and fill your information, they are 5 sections:
             class="img-fluid rounded shadow-lg"
             height="auto"
             width="300px"
-            src="./assets/profile.jpg"
+            src="./assets/profile.png"
             alt="Profile Image"
           />
         </div>
@@ -194,7 +191,7 @@ Go to `/src/template.html` and fill your information, they are 5 sections:
       <div class="project-wrapper__image">
         <a href="#!" target="_blank">
           <div data-tilt class="thumbnail rounded">
-            <img class="img-fluid" src="./assets/project.jpg" />
+            <img class="img-fluid" src="./assets/banner.png" />
           </div>
         </a>
       </div>
@@ -286,10 +283,9 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 
 **[WATCH NOW MY STEP-BY-STEP TUTORIAL FOR DEPLOYMENT](https://www.youtube.com/watch?v=soaG3GNSxJY)**
 
-## Others versions 👥
+## Others versions made by the community 👥
 
-[Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobidev)
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
+[Simplefolio Ember.js](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
